@@ -11,7 +11,10 @@ public static void main(String [] args){
 	System.out.println("Subtraction of "+a+" and "+b+" = "+(a-b));
 	System.out.println("Multiplication of "+a+" and "+b+" = "+(a*b));
 	System.out.println("Division of "+a+" and "+b+" = "+(a/b));
+	System.out.println("Square of "+a+" is " = "+(a*a));
+	System.out.println("Square of "+b+" is " = "+(b*b));
 	System.out.println("*****End*********");
 	System.out.println("*****Bye*********");
+	
 }
 }

@@ -12,5 +12,6 @@ public static void main(String [] args){
 	System.out.println("Multiplication of "+a+" and "+b+" = "+(a*b));
 	System.out.println("Division of "+a+" and "+b+" = "+(a/b));
 	System.out.println("*****End*********");
+	System.out.println("*****Bye*********");
 }
 }
